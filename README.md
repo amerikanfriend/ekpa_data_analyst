@@ -1,1 +1,1 @@
-# ekpa_data_analyst
+# Example of README.md
